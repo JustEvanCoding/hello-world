@@ -1,1 +1,1 @@
-# My main focus these days is building accessible websites that can address the most recent issues facing our society. Building software that both aesthetically pleasing and well-Engineered at the same time is what I most like about my work. When I'm not at the computer, I'm usually playing video games, practicing Chess, or go for a quick workout.
+# hello-world
